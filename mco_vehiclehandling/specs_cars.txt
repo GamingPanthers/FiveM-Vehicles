@@ -1,5 +1,6 @@
 Realistic Driving V, basic performance data
 Author: Killatomate
+Modified By: GamingPathers
 
 Performance of each car is based on this data. All cars were measured and tweaked INGAME to meet these specifications with high accuracy! (less than 4% deviation)
 detailed notes about handling characteristics and brake settings are not included.
@@ -684,7 +685,7 @@ RWD, 1700 kg, 495 HP, 6-speed manual
 0-100kmh: 4.1s
 top speed: 320 kmh
 
-Streiter (Mercedes-Benz E-Class All Terrain 4x4² 2017)
+Streiter (Mercedes-Benz E-Class All Terrain 4x4Â² 2017)
 4WD, 2050kg, 329 hp, 9-speed automatic
 0-100kmh: 6.2s
 top speed: 250 kmh
@@ -1593,7 +1594,7 @@ Insurgent2 (Terradyne GURKHA MPV)
 4WD, 7700 kg, 300 HP, 6-speed automatic
 top speed: 111 kmh
 
-Kalahari (Citröen Mehari 4x4 1982)
+Kalahari (CitrÃ¶en Mehari 4x4 1982)
 4WD, 720kg, 29 HP, 4-speed manual
 0-100kmh: ?
 top speed: 105 kmh
@@ -1942,7 +1943,7 @@ Fastest Electric Cars:
 Slowest cars (no heavy trucks):
 
 1.  Surfer (Volkswagen Type 2 T1 Kombi Bus 1966)
-2.  Kalahari (Citröen Mehari 4x4 1982)
+2.  Kalahari (CitrÃ¶en Mehari 4x4 1982)
 3.  Bodhi2 (Kaiser-Jeep M715)
 4.  Taco Van (Chevrolet Step Van P30 14 ft Extended)
 5.  Boxville (Chevrolet Step Van P30 12 ft)
